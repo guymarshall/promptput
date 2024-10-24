@@ -1,0 +1,12 @@
+[package]
+name = "promptput"
+version = "0.1.0"
+edition = "2021"
+authors = ["Guy Marshall <guymarshall.c@gmail.com>"]
+description = "A simple crate for handling terminal input."
+license = "MIT"
+repository = "https://github.com/guymarshall/promptput"
+homepage = "https://github.com/guymarshall/promptput"
+documentation = "https://docs.rs/promptput"
+
+[dependencies]
