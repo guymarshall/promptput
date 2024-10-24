@@ -8,5 +8,6 @@ license = "MIT"
 repository = "https://github.com/guymarshall/promptput"
 homepage = "https://github.com/guymarshall/promptput"
 documentation = "https://docs.rs/promptput"
+readme = "README.md"
 
 [dependencies]
